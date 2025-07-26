@@ -1,5 +1,5 @@
 ---
-title: "My First AR Experience (Gramophone Model)"
+title: "My First AR Experience (Box Model)"
 date: 2025-07-26 # Keep the corrected date
 draft: false
 ---
@@ -8,9 +8,8 @@ draft: false
 
 <p>Here is a 3D model that you can view in Augmented Reality using Google's Model Viewer!</p>
 
-<model-viewer src="/ARviewer/models/gramophone.usdz"
-              ios-src="/ARviewer/models/gramophone.usdz"
-              alt="A 3D model of a gramophone"
+<model-viewer src="/ARviewer/models/Box.glb"
+              alt="A 3D model of a box"
               ar
               ar-modes="webxr scene-viewer quick-look"
               camera-controls
