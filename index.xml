@@ -4,10 +4,11 @@ date: YYYY-MM-DDTHH:MM:SS+00:00 # Keep the generated date, it will be different 
 draft: false # &amp;lt;&amp;mdash; Make sure this is &amp;lsquo;false&amp;rsquo;&lt;/h2>
 &lt;h1 id="welcome-to-my-ar-website">Welcome to My AR Website!&lt;/h1>
 &lt;p>This is where I&amp;rsquo;ll showcase my amazing external AR viewer experiences.
-Stay tuned for more updates!&lt;/p></description></item><item><title>My First AR Experience (Box Model)</title><link>https://omidnik8.github.io/ARviewer/ar-viewers/my-first-model/</link><pubDate>Sat, 26 Jul 2025 00:00:00 +0000</pubDate><guid>https://omidnik8.github.io/ARviewer/ar-viewers/my-first-model/</guid><description>&lt;h1 id="my-first-ar-experience">My First AR Experience&lt;/h1>
+Stay tuned for more updates!&lt;/p></description></item><item><title>My First AR Experience (Gramophone Model)</title><link>https://omidnik8.github.io/ARviewer/ar-viewers/my-first-model/</link><pubDate>Sat, 26 Jul 2025 00:00:00 +0000</pubDate><guid>https://omidnik8.github.io/ARviewer/ar-viewers/my-first-model/</guid><description>&lt;h1 id="my-first-ar-experience">My First AR Experience&lt;/h1>
 &lt;p>Here is a 3D model that you can view in Augmented Reality using Google's Model Viewer!&lt;/p>
-&lt;p>&lt;model-viewer src="https://omidnik8.github.io/ARviewer/models/Box.glb"
-alt="A 3D model of a box"
+&lt;p>&lt;model-viewer src="https://omidnik8.github.io/ARviewer/models/gramophone.usdz"
+ios-src="https://omidnik8.github.io/ARviewer/models/gramophone.usdz"
+alt="A 3D model of a gramophone"
 ar
 ar-modes="webxr scene-viewer quick-look"
 camera-controls
