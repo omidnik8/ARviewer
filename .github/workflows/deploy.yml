@@ -5,6 +5,11 @@ on:
     branches:
       - main # Deploy on pushes to the main branch
 
+permissions: # Add this entire block
+  contents: write # Allow writing to the repository content
+  pages: write    # Allow writing to GitHub Pages
+  id-token: write # Required for OIDC, good practice
+
 jobs:
   deploy:
     runs-on: ubuntu-latest
