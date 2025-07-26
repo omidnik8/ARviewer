@@ -1,6 +1,6 @@
 ---
 title: "My First AR Experience (Placeholder)"
-date: 2025-07-26T17:58:00+01:00 # <--- Use an actual date and time like this
+date: 2025-07-26 # <--- Change this line to just YYYY-MM-DD (e.g., today's date)
 draft: false
 ---
 

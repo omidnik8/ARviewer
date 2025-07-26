@@ -2,3 +2,5 @@ baseURL = 'https://omidnik8.github.io/ARviewer/' # <<< IMPORTANT: Ensure this ma
 languageCode = 'en-us'
 title = 'My AR Website'
 theme = "dream"
+[markup.goldmark.renderer]
+unsafe = true
