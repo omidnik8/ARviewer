@@ -1,7 +1,7 @@
 ---
 title: "My First AR Experience (Placeholder)"
-date: YYYY-MM-DDTHH:MM:SS+00:00 # Keep the generated date
-draft: false # Set to false
+date: 2025-07-26T17:58:00+01:00 # <--- Use an actual date and time like this
+draft: false
 ---
 
 # My First AR Experience
