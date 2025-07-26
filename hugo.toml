@@ -1,0 +1,4 @@
+baseURL = 'https://YOUR_GITHUB_USERNAME.github.io/ARviewer/' # Replace YOUR_GITHUB_USERNAME with your actual GitHub username
+languageCode = 'en-us'
+title = 'My AR Website'
+theme = "dream"
