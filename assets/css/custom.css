@@ -1,0 +1,8 @@
+model-viewer {
+  width: 100%;
+  height: 400px; /* Or any height you prefer */
+  display: block;
+  margin: 0 auto;
+  border: 1px solid #ccc; /* This border is crucial for debugging visibility */
+  background-color: #f0f0f0; /* Add a background color too, for clear visibility */
+}
